@@ -49,8 +49,10 @@ To run the Convolutional Neural Network training:
 cd computer_vision
 pip install -r requirements.txt
 python lenet_cnn_classifier.py
+```
 
 To train the Q-Learning agent:
+```bash
 cd reinforcement_learning
 pip install -r requirements.txt
 python rl_frozenlake_agent.py
